@@ -16,4 +16,8 @@ public class GitClass {
         System.out.println("hello git ");
         System.out.println("hello git ");
     }
+
+    public void add(){
+        int i=1+3;
+    }
 }
