@@ -19,5 +19,6 @@ public class GitClass {
 
     public void add(){
         int i=1+3;
+        System.out.println(i);
     }
 }
