@@ -21,4 +21,8 @@ public class GitClass {
         int i=1+3;
         System.out.println(i);
     }
+
+    public void add2(){
+        System.out.println("hi git");
+    }
 }
