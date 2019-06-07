@@ -25,5 +25,6 @@ public class GitClass {
     public void add2(){
         System.out.println("aaaaaa");
         System.out.println("hi git");
+        System.out.println("push.......");
     }
 }
